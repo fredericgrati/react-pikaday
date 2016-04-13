@@ -1,0 +1,20 @@
+{
+  "name": "react-pikaday",
+  "version": "0.2.0",
+  "homepage": "https://github.com/fredericgrati/react-pikaday",
+  "authors": [
+    "Frédéric GRATI <grati.frederic@gmail.com>"
+  ],
+  "main": "./lib/Pikaday.js",
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
